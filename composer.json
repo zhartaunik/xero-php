@@ -1,5 +1,5 @@
 {
-  "name": "calcinai/xero-php",
+  "name": "zhartaunik/xero-php",
   "type": "library",
   "description": "A client implementation of the Xero API, with a cleaner OAuth interface and ORM-like abstraction.",
   "homepage": "https://github.com/calcinai/xero-php",
@@ -7,8 +7,8 @@
   "require": {
     "php": ">=5.5.0",
     "calcinai/oauth2-xero": "^1.0",
-    "guzzlehttp/guzzle": "^6.5|^7.0",
-    "guzzlehttp/psr7": "^1.5|^1.6",
+    "guzzlehttp/guzzle": "*",
+    "guzzlehttp/psr7": ">=1.5",
     "ext-json": "*",
     "ext-simplexml": "*"
   },
