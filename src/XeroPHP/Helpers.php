@@ -13,7 +13,7 @@ use XeroPHP\Models\PayrollAU\Payslip\TimesheetEarningsLine;
  */
 class Helpers
 {
-    const PACKAGE_NAME         = 'calcinai/xero-php';
+    const PACKAGE_NAME         = 'zhartaunik/xero-php';
     const DEFAULT_VERSION      = 'v2.2.4';
 
     /**
